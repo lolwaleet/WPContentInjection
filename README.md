@@ -4,6 +4,6 @@ This is an exploiter for the Content Injection vulnerability Sucuri Labs found i
 
 ### Usage
 
-Visit the site you're trying to exploit, and paste the code in console.
+Visit the site that you think is vulnerable, and paste the code in console.
 
 ~ Abk Khan [ @asystolik ]
